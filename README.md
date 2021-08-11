@@ -13,5 +13,5 @@ Discord: **Svelt#1337**
 ## Languange & Other
 * Language: `C#` | `Python` | `JavaScript`
 * Web & Database: `HTML` | `CSS` | `MongoDB`
-* Framework & Library: `Bootstrap` | `Express` | `React.js` | `Vue.js`
+* Framework & Library: `Bootstrap` | `Express` | `React` | `Vue`
 * Other: `Node.js`
