@@ -15,3 +15,5 @@ Discord: **Svelt#1337**
 * Web & Database: `HTML` | `CSS` | `MongoDB`
 * Framework & Library: `Bootstrap` | `Express` | `React` | `Vue`
 * Other: `Node.js`
+
+[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yukii2k&layout=compact&theme=dracula)](https://github.com/maisans-maid/)
