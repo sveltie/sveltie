@@ -4,7 +4,7 @@
 </p>
 <center>
   Hi, <strong>I'm Svelt!</strong> ♡ (˘▽˘) <br> 
-I'm 17 years old and I aim to be a software engineer in the future. <br> But aside from that, I'm pretty dummie and hav no friends.... Feel <br> free to chat with me and stuffs!
+I'm 17 years old and uhh.. I aim to be a software engineer in the future. <br> But aside from that, I'm pretty dummie and hav no friends.... Feel <br> free to chat with me and stuffs!
 </center>
 
 ## Contact Me
