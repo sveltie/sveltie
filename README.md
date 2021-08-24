@@ -1,7 +1,4 @@
 ## Svelt
-<p align="left">
-  <img src="https://64.media.tumblr.com/047e6fe6b0d97a256c4ec4f4e3f49092/tumblr_ngjuq8CzFH1u59cglo1_500.gifv" width="45%" >
-</p>
 <center>
   Hi, <strong>I'm Svelt!</strong> <br> 
 I'm 17 years old and uhh.. I aim to be a software engineer in the future. <br> But aside from that, Feel free to chat with me and stuffs!
@@ -16,4 +13,7 @@ Discord: **Svelt#1337**
 * Framework & Library: `Bootstrap` | `Express` | `React` | `Vue`
 * Other: `Node.js`
 
-[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yukii2k&layout=compact&theme=dracula)](https://github.com/maisans-maid/)
+## Stats
+[![stats](https://github-readme-stats.vercel.app/api?username=yukii2k&count_private=true&show_icons=true&theme=omni)](https://github.com/yukii2k/)
+<br>
+[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yukii2k&layout=compact&theme=omni)](https://github.com/yukii2k/)
