@@ -5,7 +5,7 @@ I'm 17 years old and uhh.. I aim to be a software engineer in the future. <br> B
 </center>
 
 ## Contact Me
-* Discord: **Svelt#1337**
+* Discord: **Svelt#8428**
 * Instagram: [@pyan1._](https://www.instagram.com/pyan1._/)
 * [LinkedIn](https://www.linkedin.com/in/afriyan-pratama-99a790215/)
 
