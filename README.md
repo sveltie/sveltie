@@ -10,9 +10,9 @@ I'm 17 years old and uhh.. I aim to be a software engineer in the future. <br> B
 * [LinkedIn](https://www.linkedin.com/in/afriyan-pratama-99a790215/)
 
 ## Languange & Other
-* Language: `C#` | `Python` | `JavaScript`
+* Language: `C/C++` | `Python` | `JavaScript`
 * Web & Database: `HTML` | `CSS` | `MongoDB`
-* Framework & Library: `Bootstrap` | `Express` | `React` | `Vue`
+* Framework & Library: `Bootstrap` | `Express` | `React`
 * Other: `Node.js`
 
 ## Stats
