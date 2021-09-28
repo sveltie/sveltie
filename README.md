@@ -6,11 +6,9 @@ I'm 17 years old and uhh.. I aim to be a software engineer in the future. <br> B
 
 ## Contact Me
 * Discord: **Svelt#8428**
-* Instagram: [@pyan1._](https://www.instagram.com/pyan1._/)
-* [LinkedIn](https://www.linkedin.com/in/afriyan-pratama-99a790215/)
 
 ## Languange & Other
-* Language: `C/C++` | `Python` | `JavaScript`
+* Language: `C/C++` | `JavaScript` | *Learning Golang atm*
 * Web & Database: `HTML` | `CSS` | `MongoDB`
 * Framework & Library: `Bootstrap` | `Express` | `React`
 * Other: `Node.js`
