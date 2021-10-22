@@ -11,7 +11,6 @@ I'm 17 years old and uhh.. I aim to be a software engineer in the future. <br> B
 * Language: `C/C++` | `JavaScript` | *Learning Golang atm*
 * Web & Database: `HTML` | `CSS` | `MongoDB`
 * Framework & Library: `Bootstrap` | `Express` | `React`
-* Other: `Node.js`
 
 ## Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=yukii2k&count_private=true&show_icons=true&theme=omni&include_all_commits=true)](https://github.com/yukii2k/)
