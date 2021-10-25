@@ -8,7 +8,7 @@ I'm 17 years old and uhh.. I aim to be a software engineer in the future. <br> B
 ![](https://pa1.narvii.com/6691/dc0225220c6baae20f611a10e31d34789cbf3ae7_hq.gif)
 
 ## Contact Me
-* Discord: **Svelt#8428**
+* Discord: **emii#8428**
 
 ## Languange & Other
 * Language: `C/C++` | `JavaScript` | *Learning Golang & TypeScript atm*
