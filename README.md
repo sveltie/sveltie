@@ -9,6 +9,3 @@
 * Language: `C/C++` | `JavaScript` | *Learning Golang & TypeScript atm*
 * Web & Database: `HTML` | `CSS` | `MongoDB`
 * Framework & Library: `Bootstrap` | `Express` | `React`
-
-## Stats
-[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yukii2k&layout=compact&theme=omni)](https://github.com/yukii2k/)
