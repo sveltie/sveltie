@@ -6,6 +6,6 @@
 * Discord: **emii#1124**
 
 ## Languange & Other
-* Language: `C/C++` | `JavaScript` | *Learning Golang & TypeScript atm*
+* Language: `C/C++` | `JavaScript` | `TypeScript` | *Learning Golang atm*
 * Web & Database: `HTML` | `CSS` | `MongoDB`
 * Framework & Library: `Bootstrap` | `Express` | `React`
