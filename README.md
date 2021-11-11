@@ -6,6 +6,12 @@
 * Discord: **emii#1124**
 
 ## Languange & Other
-* Language: `C/C++` | `JavaScript` | `TypeScript` | *Learning Golang atm*
+* Language: `C/C++` | `JavaScript` | `TypeScript`
 * Web & Database: `HTML` | `CSS` | `MongoDB`
 * Framework & Library: `Bootstrap` | `Express` | `React`
+
+# Tech Stack To-Learn
+- Go
+- NextJS & NestJS
+- Redis
+- GraphQL
